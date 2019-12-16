@@ -116,7 +116,6 @@
     - Flutter 프레임워크 설치와 Flutter 맛보기
     - [Flutter Installation][flutter.install]
     - [Flutter Write Your First App][flutter.tour]
-
 - Week 2
   - 이억현님
     - Flutter의 전반적인 Widget 구조를 샘플을 통해 살펴본다.
@@ -135,19 +134,18 @@
     - Flutter의 상태관리 편의성을 위해 Google I/O 에서 공식적으로 발표한 `Provider`에 대해 살펴본다.
     - [Flutter Provider Pattern][flutter.providers]
 - Week 4
+  - 이주영님
+    - [번외편] 3주차 state management의 한 종류인 BLoC 패턴에 대해 살펴본다.
   - 이은지님
     - Flutter 에서의 Json 데이터 관리법에 대해 살펴본다.
     - [Flutter Json and Serialization][flutter.json]
+- Week 5
   - 이주영님, 이종완님
     - Flutter와 네이티브 플랫폼 의존 코드간의 통신방법에 대해 알아본다.
     - [Flutter Platform Specific code][flutter.platform-specific-code]
-- Week 5
   - 장지민님
     - `4주차`에 진행된 Flutter Platform Specific Code에서 한단계 더 나아가, Flutter의 모듈 작성 방법에 대해 알아본다.
     - [Flutter Using & Development Plugins][flutter.plugins]
-  - 김다슬님
-    - Flutter 에서의 Unit Test 방법에 대해 알아본다.
-    - [Flutter Testing][flutter.testing]
 - Week 6
   - 조성준님
     - Flutter Cookbook을 통해 주요 Widget의 사용법에 조금 더 자세히 알아본다
